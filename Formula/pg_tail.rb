@@ -1,8 +1,8 @@
 class PgTail < Formula
   desc "' tail -f ' your PostgreSQL tables. "
   homepage ""
-  url "https://github.com/aaparmeggiani/pg_tail/archive/0.6.tar.gz"
-  sha256 "d0fb5382eca3b9921186895b25f13d83275b52e5ca7dcf1b81733e19eb56d0f9"
+  url "https://github.com/aaparmeggiani/pg_tail/archive/0.7.tar.gz"
+  sha256 "32f87ccc8fa81e5a24609c0df0b079023134a61e373332627ee63538f6582694"
   head "https://github.com/aaparmeggiani/pg_tail.git"
   
   depends_on "postgresql"
