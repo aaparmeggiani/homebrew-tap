@@ -1,6 +1,6 @@
 class PgTail < Formula
-  desc "' tail -f ' your PostgreSQL tables. "
-  homepage ""
+  desc "tail -f your PostgreSQL tables. "
+  homepage "https://github.com/aaparmeggiani/pg_tail"
   url "https://github.com/aaparmeggiani/pg_tail/archive/0.7.tar.gz"
   sha256 "32f87ccc8fa81e5a24609c0df0b079023134a61e373332627ee63538f6582694"
   head "https://github.com/aaparmeggiani/pg_tail.git"
